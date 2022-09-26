@@ -6,19 +6,15 @@ int main() {
 	string x = "si";
 	string y = "no";
 	string z;
-	cout << " mi nombre es cristhian, mis amigos me dicen Sdj, soy alguien bastante timido pero solo es de agarrar confianza con la gente " << endl;
 	cout << "tengo 22 años y naci en chuquisaca bolivia , me gusta jugar wally y basquet." << endl;
 	cout << "mido 1.84 mt y me molesta un poco jejeje en este pais es raro una persona alta y aveces incomoda XD" << endl;
-	cout << "bueno ese seria un resumen de mi vida :3 " << endl;
 	cout << " quieres ver otraves la biografia?"<< endl;
 	cout << " inserte respuesta si/no" << endl;
 	cin >>  z;
 	while (z=="si") 
 	{
-		cout << " mi nombre es cristhian, mis amigos me dicen Sdj, soy alguien bastante timido pero solo es de agarrar confianza con la gente " << endl;
 		cout << "tengo 22 años y naci en chuquisaca bolivia , me gusta jugar wally y basquet." << endl;
 		cout << "mido 1.84 mt y me molesta un poco jejeje en este pais es raro una persona alta y aveces incomoda XD" << endl;
-		cout << "bueno ese seria un resumen de mi vida :3 " << endl;
 		cout << " quieres ver otraves la biografia?" << endl;
 		cout << " inserte respuesta si/no" << endl;
 		cin >> z;
